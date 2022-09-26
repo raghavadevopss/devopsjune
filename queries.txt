@@ -1,3 +1,5 @@
 I added file in remote  and deleted local and tried to push but still file is there
 
 how to add more branches
+
+how top add files in the repo
